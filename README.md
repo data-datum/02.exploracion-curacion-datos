@@ -6,4 +6,4 @@ Integrantes:
 * Feldfeber, Ivana. 
 * Finzi, Nadia. 
 * Kinigsberg, Ezequiel. 
-* Villafañe, Roxana. 
+* Villafañe, Roxana Noelia
