@@ -26,6 +26,7 @@ Sitio web de la materia: https://diplodatos.famaf.unc.edu.ar/analisis-y-curacion
 #### Entregable 1
 
 Referido a las clases 1 y 2 de la materia.
+
 Temas: Exploración, combinación de datasets y datos ruidosos. 
 
 Breve descripción
@@ -33,6 +34,7 @@ Breve descripción
 #### Entregable 2 
 
 Referido a las clases 3 y 4 de la materia. 
+
 Temas: sesgo, transformaciones, normalización
 
 Breve descripción
