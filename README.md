@@ -18,7 +18,7 @@ Sitio web de la materia: https://diplodatos.famaf.unc.edu.ar/analisis-y-curacion
 #### Datasets
 
 
-* El conjunto de datos pre-procesado sobre estimación de precios de ventas de propiedades en Melbourne, Australia, disponible en la plataforma Kaggle.
+* El conjunto de datos pre-procesado sobre estimación de precios de ventas de propiedades en Melbourne, Australia, disponible en la plataforma Kaggle(https://www.kaggle.com/dansbecker/melbourne-housing-snapshot). 
 * Un conjunto de datos de scrapings del sitio AirBnb para la ciudad de Melbourne, Australia, 2018, disponibilizado por Tyler Xie, a través de la plataforma Kaggle.
 
 
