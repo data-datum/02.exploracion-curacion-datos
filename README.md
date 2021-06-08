@@ -25,8 +25,8 @@ Sitio web de la materia: https://diplodatos.famaf.unc.edu.ar/analisis-y-curacion
 
 #### Entregable 1
 
-
+Breve descripción
 
 #### Entregable 2 
 
-
+Breve descripción
