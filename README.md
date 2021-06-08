@@ -1,5 +1,5 @@
 # Repositorio de la materia "Exploración y Curación de Datos"
-#### Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones. 
+#### Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones. *Edición 2021*
 
 Integrantes:
 * Devesa, Maria Roberta. 
