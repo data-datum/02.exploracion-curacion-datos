@@ -11,7 +11,7 @@ Integrantes:
 
 En este repositorio se encuentran los dos notebooks correspondientes a los dos entregables de la materia:
 "Exploración y Curación de Datos". 
-Sitio web de la materia: https://diplodatos.famaf.unc.edu.ar/analisis-y-curacion-de-datos/ 
+* Sitio web de la materia: https://diplodatos.famaf.unc.edu.ar/analisis-y-curacion-de-datos/ 
 
 ### Documentación
 
@@ -27,7 +27,10 @@ Sitio web de la materia: https://diplodatos.famaf.unc.edu.ar/analisis-y-curacion
 
 Referido a las clases 1 y 2 de la materia.
 
-*Temas: Exploración, combinación de datasets y datos ruidosos.*
+*Temas:* 
+* Exploración, 
+* combinación de datasets 
+* datos ruidosos.
 
 Breve descripción
 
@@ -35,6 +38,9 @@ Breve descripción
 
 Referido a las clases 3 y 4 de la materia. 
 
-*Temas: sesgo, transformaciones, normalización.*
+*Temas:* 
+* sesgo, 
+* transformaciones, 
+* normalización.
 
 Breve descripción
