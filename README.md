@@ -49,6 +49,6 @@ Referido a las clases 3 y 4 de la materia.
 * Posteriormente, las variables  `BuildingArea` y `YearBuilt` se imputaron mediante `IterativeImputer` con un estimador `KNNRegressor`. Se graficaron las distribuciones de valores antes y después de imputar con KNN. 
 * Luego, estos resultados se procesaron mediante Análisis de Componentes Principales (PCA) y se graficaron las varianzas acumuladas en cada componente principal. 
 * Se agregaron las columnas correspondientes del análisis de PCA a la matriz original de datos. 
-* Composición de resultado. -------- completar
+* Composición de resultado: en esta etapa se guardaron los cambios en un `pandas.DataFrame`.
 * Se documentaron los pasos realizados. 
 
