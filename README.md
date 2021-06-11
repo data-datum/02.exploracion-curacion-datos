@@ -33,6 +33,16 @@ Referido a las clases 1 y 2 de la materia.
 * datos ruidosos.
 
 Breve descripción
+Se procedió en varias etapas numeradas en el notebook correspondiente, a saber;
+1.1.1 Outliers.
+1.2.1 Selección de columnas
+1.2.2 Chequeo de columnas
+1.3.1 Merge
+1.3.2 Investigación de variables para combinar. 
+2. Imputacion
+2.1 Imputar valores faltantes de `CouncilArea`. 
+2.2 Imputar los valores faltantes de la(s) columna(s) que se agregaron a partir del conjunto de datos de AirBnB.
+3. Composición de resultado. Se exportó el archivo curado en formato `.csv` bajo el nombre `MelbourneCurado.csv`
 
 #### Entregable 2 
 
