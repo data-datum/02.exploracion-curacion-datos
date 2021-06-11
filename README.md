@@ -35,6 +35,7 @@ Referido a las clases 1 y 2 de la materia.
 **Breve descripción** 
 
 Se procedió en varias etapas numeradas en el notebook correspondiente, a saber;
+* 1. Valores Extremos
 * 1.1.1 Outliers.
 * 1.2.1 Selección de columnas
 * 1.2.2 Chequeo de columnas
