@@ -44,3 +44,10 @@ Referido a las clases 3 y 4 de la materia.
 * normalización.
 
 Breve descripción
+En primer se realizó un encoding de las variables excepto `BuildingArea` y `YearBuilt`, mediante la función `OneHotEncoder`.
+Posteriormente, las variables  `BuildingArea` y `YearBuilt` se imputaron mediante `IterativeImputer` con un estimador `KNNRegressor`.
+Luego, estos resultados se procesaron mediante Análisis de Componentes Principales (PCA) y se graficaron las varianzas acumuladas en cada componente principal. 
+Se agregaron las columnas correspondientes del análisis de PCA a la matriz original de datos. 
+####
+Se documentaron los pasos realizados. 
+
