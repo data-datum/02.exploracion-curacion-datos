@@ -33,6 +33,7 @@ Referido a las clases 1 y 2 de la materia.
 * datos ruidosos.
 
 **Breve descripción** 
+
 *(para una descripción más detallada consultar la documentación disponible en este repositorio)*
 
 
@@ -58,6 +59,7 @@ Referido a las clases 3 y 4 de la materia.
 * normalización.
 
 **Breve descripción**
+
 *(para una descripción más detallada consultar la documentación disponible en este repositorio)*
 
 * En primer se realizó un encoding de las variables excepto `BuildingArea` y `YearBuilt`, mediante la función `OneHotEncoder`.
