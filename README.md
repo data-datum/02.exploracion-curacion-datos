@@ -36,18 +36,17 @@ Referido a las clases 1 y 2 de la materia.
 
 *(para una descripción más detallada consultar la documentación disponible en este repositorio)*
 
+El trabajo se dividió en tres etapas principales. Primero el estudio del dataset para entender y analizar la información del mismo. Luego se realizó un proceso de imputación de valores faltantes, y finalmente la composición y exportación del dataset final.
+El estudio del dataset tiene como objetivo comprender la información disponible, su distribución, los rangos de las variables y las imitaciones de las mismas; como por ejemplo la cantidad de valores faltantes. Se basó en los siguientes puntos
+Estudio de valores extremos por medio del análisis de las variables y sus rangos.
+El análisis de los Outliers estudiando las distribuciones y los cuantiles de las variables.
+La selección de columnas de interés para el objetivo del estudio. Se estudió la información de cada columna y se analizaron sus valores.
+Se realizó un proceso de Imputación de los valores faltantes utilizando la información del dataset de AirBnB.
+Primero se investigó las variables posibles para combinar.
+Paro los casos posibles se pasó a la etapa de Imputación
+Se imputaron los valores faltantes de la columna CouncilArea.
+Una vez definido el dataset final se lo exportó en formato .csv bajo el nombre MelbourneCurado.csv
 
-Se procedió en varias etapas numeradas en el notebook correspondiente, a saber;
-* 1. Valores Extremos
-* 1.1.1 Outliers.
-* 1.2.1 Selección de columnas
-* 1.2.2 Chequeo de columnas
-* 1.3.1 Merge
-* 1.3.2 Investigación de variables para combinar. 
-* 2. Imputacion
-* 2.1 Imputar valores faltantes de `CouncilArea`. 
-* 2.2 Imputar los valores faltantes de la(s) columna(s) que se agregaron a partir del conjunto de datos de AirBnB.
-* 3. Composición de resultado. Se exportó el archivo curado en formato `.csv` bajo el nombre `MelbourneCurado.csv`
 
 #### Entregable 2 
 
