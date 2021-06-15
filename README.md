@@ -38,7 +38,7 @@ Referido a las clases 1 y 2 de la materia.
 
 * El trabajo se dividió en tres etapas principales. 
 * Primero el estudio del dataset para entender y analizar la información del mismo. Luego se realizó un proceso de imputación de valores faltantes, y finalmente la composición y exportación del dataset final.
-El estudio del dataset tiene como objetivo comprender la información disponible, su distribución, los rangos de las variables y las imitaciones de las mismas; como por ejemplo la cantidad de valores faltantes. Se basó en los siguientes puntos
+El estudio del dataset tiene como objetivo comprender la información disponible, su distribución, los rangos de las variables y las imitaciones de las mismas; como por ejemplo la cantidad de valores faltantes. Se basó en los siguientes puntos: 
 * Estudio de valores extremos por medio del análisis de las variables y sus rangos.
 * El análisis de los Outliers estudiando las distribuciones y los cuantiles de las variables.
 * La selección de columnas de interés para el objetivo del estudio. Se estudió la información de cada columna y se analizaron sus valores.
